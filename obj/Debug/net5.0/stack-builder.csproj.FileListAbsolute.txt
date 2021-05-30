@@ -1,0 +1,16 @@
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\bin\Debug\net5.0\stack-builder.exe
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\bin\Debug\net5.0\stack-builder.deps.json
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\bin\Debug\net5.0\stack-builder.runtimeconfig.json
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\bin\Debug\net5.0\stack-builder.runtimeconfig.dev.json
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\bin\Debug\net5.0\stack-builder.dll
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\bin\Debug\net5.0\ref\stack-builder.dll
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\bin\Debug\net5.0\stack-builder.pdb
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.csprojAssemblyReference.cache
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.AssemblyInfoInputs.cache
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.AssemblyInfo.cs
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.csproj.CoreCompileInputs.cache
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.dll
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\ref\stack-builder.dll
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.pdb
+C:\Users\srluthmoodoo\Desktop\Tutorial\stack-builder\obj\Debug\net5.0\stack-builder.genruntimeconfig.cache
